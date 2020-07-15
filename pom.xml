@@ -12,6 +12,7 @@
         <module>sc-consul-provider2</module>
         <module>sc-consul-provider2</module>
         <module>sc-consul-consumer</module>
+        <module>sc-consul-config</module>
     </modules>
     <packaging>pom</packaging>
 
